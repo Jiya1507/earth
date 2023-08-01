@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title> Earth</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<h1> Our Earth </h1>
+
+<div class = "planeta"> 
+  <div class = "a"></div>
+</div>
+
+<div class = "est b"></div>
+<div class = "est c"></div>
+<div class = "est d"></div>
+<div class = "est e"></div>
+<div class = "est f"></div>
+<div class = "est g"></div>
+<div class = "est h"></div>
+<div class = "est i"></div>
+<div class = "est j"></div>
+<div class = "est k"></div>
+<!-- partial -->
+  
+</body>
+</html>
